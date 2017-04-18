@@ -12,7 +12,7 @@ url:
 baseurl:             ''
 paginate:            5
 
-include: _pages
+include: pages
 
 
 # Custom vars
